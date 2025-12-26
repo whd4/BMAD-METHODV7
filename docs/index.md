@@ -13,6 +13,7 @@ Complete map of all BMad Method v6 documentation with recommended reading paths.
 | **Brand new to BMad**  | [Quick Start Guide](../src/modules/bmm/docs/quick-start.md)     | [BMM Workflows Guide](../src/modules/bmm/workflows/README.md) |
 | **Upgrading from v4**  | [v4 to v6 Upgrade Guide](./v4-to-v6-upgrade.md)                 | [Quick Start Guide](../src/modules/bmm/docs/quick-start.md)   |
 | **Brownfield project** | [Brownfield Guide](../src/modules/bmm/docs/brownfield-guide.md) | [Quick Start Guide](../src/modules/bmm/docs/quick-start.md)   |
+| **Want examples fast** | [Interactive Manual](./interactive-manual.md)                   | [BMM Workflows Guide](../src/modules/bmm/workflows/README.md) |
 
 ---
 

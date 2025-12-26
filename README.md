@@ -137,6 +137,7 @@ Each agent brings deep expertise and can be customized to match your team's styl
 ### Quick Links
 
 - **[Quick Start Guide](./src/modules/bmm/docs/quick-start.md)** - 15-minute introduction
+- **[Interactive Manual](./docs/interactive-manual.md)** - Copy-paste examples for core workflows
 - **[Complete BMM Documentation](./src/modules/bmm/docs/README.md)** - All guides and references
 - **[Agent Customization](./docs/agent-customization-guide.md)** - Personalize your agents
 - **[All Documentation](./docs/index.md)** - Complete documentation index
